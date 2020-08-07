@@ -4,36 +4,10 @@ Saat ini tinggal di malang, sebagai web dev di [adeka](https://www.adeka-indones
 
 Biasanya sesuatu yang ingin saya bagikan ditulis di [situs pribadi](ffadilaputra.space) dan hal teknis di [@horcux](https://masih-hello-world.xyz/), jika ada ketertarikan yang sama ya silakan mampir hehe, siapa tau (...) , boleh apresiasi tulisan lewat [saweria.co](https://saweria.co/ffadilaputra) :)
 
-
-<!--
-**ffadilaputra/ffadilaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-⚙️ Teknologi yang biasa dipakai
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-
-<img align="left" alt="Node" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<br />
-<br />
-
-🔭 Sedang dipelajari
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+### Topik yang sering dibahas 
+- Web development
+- Blogging
+- HCI
 
 <br />
 <br />
