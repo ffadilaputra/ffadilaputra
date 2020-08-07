@@ -1,6 +1,6 @@
 ### Halo, perkenalkan saya Ivan 👋
 
-Saat ini tinggal di malang, sebagai web dev di [adeka](https://www.adeka-indonesia.com/) yang saat ini sedang dikembangkan. Dimana [adeka](https://www.adeka-indonesia.com/) berfokus pada pembuatan produk digital seperti perangkat lunak (lms, ecommerce, POS) dan konten digital (video,logo design)  apabila ada kesempatan kami akan ***opensource*** kan potongan kecil kode dari projek kami kerjakan di [@adeka-oss](https://github.com/adeka-oss).
+Saat ini tinggal di malang, sebagai web dev di [adeka](https://www.adeka-indonesia.com/) yang saat ini sedang dikembangkan. Dimana [adeka](https://www.adeka-indonesia.com/) berfokus pada pembuatan produk digital seperti perangkat lunak dan konten digital apabila ada kesempatan kami akan ***opensource*** kan potongan kecil kode dari projek kami kerjakan di [@adeka-oss](https://github.com/adeka-oss).
 
 Biasanya sesuatu yang ingin saya bagikan ditulis di [situs pribadi](ffadilaputra.space) dan hal teknis di [@horcux](https://masih-hello-world.xyz/), jika ada ketertarikan yang sama ya silakan mampir hehe, siapa tau (...) , boleh apresiasi tulisan lewat [saweria.co](https://saweria.co/ffadilaputra) :)
 
