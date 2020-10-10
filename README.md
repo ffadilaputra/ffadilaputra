@@ -1,1 +1,1 @@
-### Halo, perkenalkan saya Ivan 👋
+### Halo, saya Ivan 👋
