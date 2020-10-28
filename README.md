@@ -1,4 +1,6 @@
-### Halo, saya Ivan 👋
+### Halo, im Ivan 👋
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ffadilaputra" alt="ffadilaputra" /> </p>
 
 ### Github Stats
 
