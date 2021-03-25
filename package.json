@@ -1,8 +1,8 @@
 {
-  "name": "jackyef",
+  "name": "ffadilaputra-addmoji",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:jackyef/jackyef.git",
+  "repository": "git@github.com:ffadilaputra/ffadilaputra.git",
   "author": "Jacky Efendi <jacky.efendi1@gmail.com>",
   "license": "MIT",
   "devDependencies": {
