@@ -1,14 +1,14 @@
 import fetch from 'node-fetch';
 
-const ghRepoOwner = 'jackyef'
-const ghRepoName = 'jackyef'
+const ghRepoOwner = 'ffadilaputra'
+const ghRepoName = 'ffadilaputra'
 const ghToken = process.env['GH_TOKEN'] || '';
 
 const baseHeaders = {
   Accept: 'application/vnd.github.v3+json',
   'Content-Type': 'application/json',
   Authorization: `token ${ghToken}`,
-  'User-Agent': 'jackyef-gh-readme',
+  'User-Agent': 'ffadilaputra-gh-readme',
 };
 
 // use GET to get content
