@@ -6,7 +6,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ffadilaputra&show_icons=true" alt="ffadilaputra" />
 </p> -->
 
-### You can leave me some emojis! ⬇️
+### You can leave me some emojis! 🧙🏻‍♂️
 <table>
 <tr align="center">
   <td><a href="https://ffadilaputra-addmoji.vercel.app/api/addmoji?type=👋">👋</a></td>
