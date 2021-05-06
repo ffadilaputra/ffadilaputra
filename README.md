@@ -1,4 +1,4 @@
-## Halo, im Ivan 👋
+## Halo, im Ivan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=ffadilaputra" alt="ffadilaputra" /> </p>
 
