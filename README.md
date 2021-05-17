@@ -24,7 +24,7 @@
   <td><a href="https://ffadilaputra-addmoji.vercel.app/api/addmoji?type=👋"><span id="count-👋">7</span></a></td>
   <td><a href="https://ffadilaputra-addmoji.vercel.app/api/addmoji?type=👍"><span id="count-👍">3</span></a></td>
   <td><a href="https://ffadilaputra-addmoji.vercel.app/api/addmoji?type=👊"><span id="count-👊">4</span></a></td>
-  <td><a href="https://ffadilaputra-addmoji.vercel.app/api/addmoji?type=❤️"><span id="count-❤️">2</span></a></td>
+  <td><a href="https://ffadilaputra-addmoji.vercel.app/api/addmoji?type=❤️"><span id="count-❤️">3</span></a></td>
   <td><a href="https://ffadilaputra-addmoji.vercel.app/api/addmoji?type=😂"><span id="count-😂">3</span></a></td>
   <td><a href="https://ffadilaputra-addmoji.vercel.app/api/addmoji?type=🤓"><span id="count-🤓">7</span></a></td>
   <td><a href="https://ffadilaputra-addmoji.vercel.app/api/addmoji?type=😎"><span id="count-😎">7</span></a></td>
