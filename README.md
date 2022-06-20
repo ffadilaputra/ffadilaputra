@@ -29,7 +29,7 @@
   <td><a href="https://ffadilaputra-addmoji.vercel.app/api/addmoji?type=🤓"><span id="count-🤓">50</span></a></td>
   <td><a href="https://ffadilaputra-addmoji.vercel.app/api/addmoji?type=😎"><span id="count-😎">42</span></a></td>
   <td><a href="https://ffadilaputra-addmoji.vercel.app/api/addmoji?type=😛"><span id="count-😛">27</span></a></td>
-  <td><a href="https://ffadilaputra-addmoji.vercel.app/api/addmoji?type=🙃"><span id="count-🙃">30</span></a></td>
+  <td><a href="https://ffadilaputra-addmoji.vercel.app/api/addmoji?type=🙃"><span id="count-🙃">31</span></a></td>
   <td><a href="https://ffadilaputra-addmoji.vercel.app/api/addmoji?type=😉"><span id="count-😉">56</span></a></td>
 </tr>
 </table>
